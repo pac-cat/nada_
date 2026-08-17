@@ -1,0 +1,714 @@
+[
+  {
+    "id": "col-1",
+    "category": "Collectibles",
+    "name": "Pig",
+    "desc": "Round, unhurried, content. A form that finds joy in simply being.",
+    "specs": "Dimensions: 11x7 cm\nMaterial: Hand-painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹1650.00"
+  },
+  {
+    "id": "col-2",
+    "category": "Collectibles",
+    "name": "Elephant",
+    "desc": "Heavy with memory. A small form that carries the weight of something ancient.",
+    "specs": "X Small: 4x2 cm — ₹850\nSmall: 6x3 cm — ₹1,750\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹850 · ₹950"
+  },
+  {
+    "id": "col-3",
+    "category": "Collectibles",
+    "name": "Lion",
+    "desc": "Still, but never tame. A porcelain presence that holds the room.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹ —"
+  },
+  {
+    "id": "col-4",
+    "category": "Collectibles",
+    "name": "Monkey",
+    "desc": "Curious, mid-gesture. Caught in the moment between mischief and stillness.",
+    "specs": "Dimensions: 15x14 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹4850.00"
+  },
+  {
+    "id": "col-5",
+    "category": "Collectibles",
+    "name": "Nandi",
+    "desc": "The sacred bull, rendered in porcelain. Patient, devoted, eternal.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹ —"
+  },
+  {
+    "id": "col-6",
+    "category": "Collectibles",
+    "name": "Ganesh",
+    "desc": "The remover of obstacles. Made with intention, held with reverence.",
+    "specs": "Dimensions: 7x11 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹3850.00"
+  },
+  {
+    "id": "col-7",
+    "category": "Collectibles",
+    "name": "Dragonfly",
+    "desc": "Iridescent by nature. In porcelain, it lands and stays.",
+    "specs": "Medium: 10x13 cm — ₹1,450\nLarge: 13x17 cm — ₹1,750\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1,450 – ₹1,750"
+  },
+  {
+    "id": "col-8",
+    "category": "Collectibles",
+    "name": "Snake",
+    "desc": "Coiled, still, alive. A porcelain form that holds its own silence.",
+    "specs": "Dimensions: 20 - 21 cm\nMaterial: Hand-painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹2450.00"
+  },
+  {
+    "id": "col-9",
+    "category": "Collectibles",
+    "name": "Rocket",
+    "desc": "Named and loved. The most loyal thing the kiln has made.",
+    "specs": "X Small: 2x2 cm — ₹850\nSmall: 4x4 cm — ₹950\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹850 · ₹950"
+  },
+  {
+    "id": "col-10",
+    "category": "Collectibles",
+    "name": "Crab",
+    "desc": "Sideways and certain. A creature that knows exactly where it is going.",
+    "specs": "Dimensions: 7x13 cm\nMaterial: Hand-painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "col-11",
+    "category": "Collectibles",
+    "name": "Whirling Dervish",
+    "desc": "Frozen mid-spin. A form that carries the energy of surrender and devotion.",
+    "specs": "X Small: 2x2 cm — ₹650\nSmall: 3x2 cm — ₹850\nMedium: 6x3 cm — ₹950\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹650 · ₹850 · ₹950"
+  },
+  {
+    "id": "col-12",
+    "category": "Collectibles",
+    "name": "Koi Fish",
+    "desc": "Grace in motion, stillness in clay. Each scale pressed by hand.",
+    "specs": "Small: 17 cm — ₹2,450\nMedium: 22 cm — ₹3,450\nLarge: 27 cm — ₹4,450\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹ 2,450 · ₹ 3,450"
+  },
+  {
+    "id": "col-13",
+    "category": "Collectibles",
+    "name": "Star Fish",
+    "desc": "Five arms reaching outward. A quiet coastal relic in porcelain.",
+    "specs": "Small: 7x7 cm — ₹950\nMedium: 9.5x9.5 cm — ₹1250\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹950 · ₹1250"
+  },
+  {
+    "id": "col-14",
+    "category": "Collectibles",
+    "name": "Shell",
+    "desc": "The sea remembered in clay. Spiral, patient, complete.",
+    "specs": "Dimensions: 12 -14 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "col-15",
+    "category": "Collectibles",
+    "name": "Mushroom",
+    "desc": "Small, grounded, quietly magical. Emerges from the kiln as if from forest floor.",
+    "specs": "Dimensions: 4x10 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "col-16",
+    "category": "Collectibles",
+    "name": "Bird",
+    "desc": "Mid-perch or mid-flight — the form holds both. Light as the clay would allow.",
+    "specs": "Dimensions: 7 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹950.00"
+  },
+  {
+    "id": "col-17",
+    "category": "Collectibles",
+    "name": "Flower 01",
+    "desc": "Petals caught at the moment of opening. The bloom that does not fade.",
+    "specs": "Dimensions: 10.5 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹1,650"
+  },
+  {
+    "id": "col-18",
+    "category": "Collectibles",
+    "name": "Flower Incense Stick Holder",
+    "desc": "A flower in porcelain, made to hold a single stick of incense. Smoke rising, form staying.",
+    "specs": "Dimensions: 4 - 8 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹750 · ₹950 · ₹1150"
+  },
+  {
+    "id": "col-19",
+    "category": "Collectibles",
+    "name": "Spoon",
+    "desc": "Held lightly, used slowly. A porcelain spoon that makes the ordinary feel considered.",
+    "specs": "Dimensions: 7 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1150.00"
+  },
+  {
+    "id": "col-20",
+    "category": "Collectibles",
+    "name": "Snake Ash Tray",
+    "desc": "Coiled at the rim, watching. An ash tray that makes the ritual of rest feel considered.",
+    "specs": "Dimensions: 10x4 cm\nMaterial: Hand-painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹2850.00"
+  },
+  {
+    "id": "ves-1",
+    "category": "Vessels",
+    "name": "Cappuccino Glass",
+    "desc": "The right weight in the hand. Holds the foam, holds the warmth, holds the moment.",
+    "specs": "Dimensions: 8x5.7 cm, 180 ml\nMaterial: Porcelain\nOne of a Kind",
+    "price": "₹750.00"
+  },
+  {
+    "id": "ves-2",
+    "category": "Vessels",
+    "name": "Latte Glass",
+    "desc": "Tall, clear-walled, porcelain-footed. Made for the long, slow coffee.",
+    "specs": "Dimensions: 8.5x7.5 cm, 240 ml\nMaterial: Porcelain\nOne of a Kind",
+    "price": "₹850.00"
+  },
+  {
+    "id": "ves-3",
+    "category": "Vessels",
+    "name": "Espresso & Cortado Glass",
+    "desc": "Small, precise, unhurried. For the shot that demands full attention.",
+    "specs": "Dimensions: 5.5x6.5 cm, 90 ml\nMaterial: Porcelain\nOne of a Kind",
+    "price": "₹475.00"
+  },
+  {
+    "id": "ves-39",
+    "category": "Vessels",
+    "name": "Handpainted Mug Large",
+    "desc": "The large mug, hand painted. Every one singular — the pattern lands differently each time. Made for the long morning.",
+    "specs": "Dimensions: 7x9 cm\nMaterial: Hand-painted Porcelain\nOne of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "ves-4",
+    "category": "Vessels",
+    "name": "Pourer 01",
+    "desc": "A slow, deliberate pour. Made for oil, for cream, for the unhurried table.",
+    "specs": "Dimensions: 6x10.5 cm, 300 ml\nMaterial: Porcelain\nOne of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "ves-5",
+    "category": "Vessels",
+    "name": "Pourer 02",
+    "desc": "A second form, a different hand. Same intention, different gesture.",
+    "specs": "Dimensions: 6.5x7 cm, 160 ml\nMaterial: Hand-painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "ves-6",
+    "category": "Vessels",
+    "name": "Espresso Cup",
+    "desc": "Thick-walled, heat-holding, palm-sized. The classic form, made by hand.",
+    "specs": "Dimensions: 5.5x6.5 cm, Handle size: 4.5 cm , 90 ml\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹575.00"
+  },
+  {
+    "id": "ves-7",
+    "category": "Vessels",
+    "name": "Everyday Mug",
+    "desc": "The one you reach for every morning. Handle warm, clay familiar.",
+    "specs": "Dimensions: 8x9 cm, Handle size: 3 cm , 90 ml\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1050.00"
+  },
+  {
+    "id": "ves-8",
+    "category": "Vessels",
+    "name": "Everyday Cup",
+    "desc": "Handleless, two-handed, unhurried. For whatever the day calls for.",
+    "specs": "Dimensions: 7.8x6.5 cm, Handle size: 3 cm , 90 ml\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹850.00"
+  },
+  {
+    "id": "ves-9",
+    "category": "Vessels",
+    "name": "Matcha Bowl",
+    "desc": "Wide-mouthed, two-handed. Made for the ritual of whisking, of slowing down.",
+    "specs": "Dimensions: 11.5x7 cm, 400 ml\nMaterial: Hand-painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹2450.00"
+  },
+  {
+    "id": "ves-10",
+    "category": "Vessels",
+    "name": "Matcha Glass",
+    "desc": "Tall and clear-sided. Holds the green, holds the ritual, holds the morning.",
+    "specs": "Dimensions —\\\nMaterial: Porcelain",
+    "price": "₹ —"
+  },
+  {
+    "id": "ves-11",
+    "category": "Vessels",
+    "name": "Short Glass",
+    "desc": "Low and steady. For water, for juice, for whatever the table calls for.",
+    "specs": "Dimensions: 7x8 cm, 180 ml\nMaterial: Hand-painted Porcelain\nOne of a Kind",
+    "price": "₹699.00"
+  },
+  {
+    "id": "ves-12",
+    "category": "Vessels",
+    "name": "Tall Glass",
+    "desc": "Straight-sided, generous. Holds a long drink, a quiet afternoon.",
+    "specs": "Dimensions: 8x9 cm, 300 ml\nMaterial: Hand-painted Porcelain\nOne of a Kind",
+    "price": "₹850.00"
+  },
+  {
+    "id": "ves-13",
+    "category": "Vessels",
+    "name": "Tray",
+    "desc": "Flat, purposeful, quietly elegant. Holds whatever the moment requires.",
+    "specs": "Dimensions: 32 cm\nMaterial: Hand-painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹3850.00"
+  },
+  {
+    "id": "ves-14",
+    "category": "Vessels",
+    "name": "Jug",
+    "desc": "Poured slowly, held with both hands. A vessel for water, for milk, for morning.",
+    "specs": "Dimensions: 10x18x16 cm\nMaterial: Hand-painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹3850.00"
+  },
+  {
+    "id": "ves-15",
+    "category": "Vessels",
+    "name": "Water Bottle",
+    "desc": "Porcelain that travels. Keeps cool, holds form, goes with you.",
+    "specs": "Dimensions: 10x20 cm\nMaterial: Hand painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹3,750"
+  },
+  {
+    "id": "ves-40",
+    "category": "Vessels",
+    "name": "Carafe",
+    "desc": "Slender-necked, generous-bodied. For water, for wine, for the table that lingers.",
+    "specs": "Carafe: 10x20 cm Glass:\nMaterial: Hand painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹3850.00"
+  },
+  {
+    "id": "ves-16",
+    "category": "Vessels",
+    "name": "Butter Dish",
+    "desc": "Small, considered, essential. For the table that notices the details.",
+    "specs": "Dimensions: 7x10x16cm\nMaterial: Hand painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹3450.00"
+  },
+  {
+    "id": "ves-17",
+    "category": "Vessels",
+    "name": "Large Serving Plate",
+    "desc": "The table's anchor. Wide, flat, made to be filled and passed around.",
+    "specs": "Dimensions: 27 cm\nMaterial: Hand painted Porcelain\\\nHand Built — One of a Kind",
+    "price": "₹5,250"
+  },
+  {
+    "id": "ves-18",
+    "category": "Vessels",
+    "name": "Samudra Dip Dish",
+    "desc": "From the Samudra range. A small dish for condiments, for sauces, for the side of things.",
+    "specs": "Dimensions: 5x4 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹450.00"
+  },
+  {
+    "id": "ves-19",
+    "category": "Vessels",
+    "name": "Samudra Coaster Plate",
+    "desc": "From the Samudra range. Flat, considered. Sits beneath a glass, beneath a cup.",
+    "specs": "Dimensions: 10 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹750.00"
+  },
+  {
+    "id": "ves-20",
+    "category": "Vessels",
+    "name": "Samudra Tapas Plate",
+    "desc": "From the Samudra range. Small plates for small pleasures. Pass them around.",
+    "specs": "Dimensions: 14 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹950.00"
+  },
+  {
+    "id": "ves-21",
+    "category": "Vessels",
+    "name": "Samudra Salad Plate",
+    "desc": "From the Samudra range. Wide enough for a meal, elegant enough for a table.",
+    "specs": "Dimensions: 18 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1250.00"
+  },
+  {
+    "id": "ves-22",
+    "category": "Vessels",
+    "name": "Samudra Bowl",
+    "desc": "From the Samudra range. Deep, generous, holding. For soup, for rice, for whatever needs cradling.",
+    "specs": "Dimensions: 15x7 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1650.00"
+  },
+  {
+    "id": "ves-23",
+    "category": "Vessels",
+    "name": "Samudra Glass",
+    "desc": "From the Samudra range. A drinking glass with the sea in its glaze.",
+    "specs": "Dimensions: 8x8 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1250.00"
+  },
+  {
+    "id": "ves-24",
+    "category": "Vessels",
+    "name": "Pasta Plate",
+    "desc": "Deep-rimmed, wide enough for a generous portion. Made for the meal that takes its time.",
+    "specs": "Dimensions: 20 cm\nMaterial: Hand painted Porcelain\nOne of a Kind",
+    "price": "₹1650.00"
+  },
+  {
+    "id": "ves-25",
+    "category": "Vessels",
+    "name": "Dinner Plate",
+    "desc": "The everyday essential, made extraordinary. Thrown by hand, finished with care.",
+    "specs": "Dimensions: 24 cm\nMaterial: Hand painted Porcelain\nOne of a Kind",
+    "price": "₹1850.00"
+  },
+  {
+    "id": "ves-26",
+    "category": "Vessels",
+    "name": "Plate with Coiling",
+    "desc": "A plate finished with hand-coiled edges. The coil is the mark — unhidden, intentional.",
+    "specs": "Dimensions: 12 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1250.00"
+  },
+  {
+    "id": "ves-27",
+    "category": "Vessels",
+    "name": "Small Bowl",
+    "desc": "For a handful of something good. Salt, nuts, a single scoop — it earns its place.",
+    "specs": "Dimensions: 9x4 cm\nMaterial: Hand painted Porcelain\nOne of a Kind",
+    "price": "₹850.00"
+  },
+  {
+    "id": "ves-28",
+    "category": "Vessels",
+    "name": "Everyday Bowl",
+    "desc": "The one you reach for every morning. Reliable, beautiful, yours.",
+    "specs": "Dimensions: 16x6 cm\nMaterial: Hand painted Porcelain\nOne of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "ves-29",
+    "category": "Vessels",
+    "name": "Fruit Bowl/Serving Bowl",
+    "desc": "Wide, generous, made to hold what the season gives. A centrepiece that earns its place.",
+    "specs": "Dimensions: 22x10 cm\nMaterial: Porcelain\nOne of a Kind",
+    "price": "₹4850.00"
+  },
+  {
+    "id": "ves-30",
+    "category": "Vessels",
+    "name": "Pedestal Bowl with Handle",
+    "desc": "Raised, handled, made to be carried to the table. A centrepiece that invites both hands.",
+    "specs": "Dimensions: 20x14 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹5850.00"
+  },
+  {
+    "id": "ves-31",
+    "category": "Vessels",
+    "name": "Pedestal Bowl",
+    "desc": "Elevated, composed. A bowl that stands apart and makes everything it holds feel special.",
+    "specs": "Dimensions: 16.5x14 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹3850.00"
+  },
+  {
+    "id": "ves-32",
+    "category": "Vessels",
+    "name": "Small Cake Stand",
+    "desc": "Raised just enough to make everything it holds feel like an occasion.",
+    "specs": "Dimensions: 18x8 cm\nMaterial: Hand painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹4450.00"
+  },
+  {
+    "id": "ves-33",
+    "category": "Vessels",
+    "name": "Chandra Bowl",
+    "desc": "Moon-shaped, softly curved. A bowl that holds light the way the moon holds night.",
+    "specs": "Dimensions: 20x6 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹2850.00"
+  },
+  {
+    "id": "ves-34",
+    "category": "Vessels",
+    "name": "Movement Bowl",
+    "desc": "Form caught mid-motion. A bowl shaped by the energy of making — fluid, alive, unrepeated.",
+    "specs": "Dimensions: 20x10 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹4250.00"
+  },
+  {
+    "id": "ves-35",
+    "category": "Vessels",
+    "name": "Ribbed Vase Tall",
+    "desc": "Tall, vertical, ribbed from base to lip. A quiet architectural presence.",
+    "specs": "Dimensions: 12x22 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹5850.00"
+  },
+  {
+    "id": "ves-36",
+    "category": "Vessels",
+    "name": "Ribbed Vase Short",
+    "desc": "Compact and textured. The same ribs, a different proportion, a different mood.",
+    "specs": "Dimensions: 11x14 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹4250.00"
+  },
+  {
+    "id": "ves-37",
+    "category": "Vessels",
+    "name": "Ribbed Balloon Vase",
+    "desc": "Rounded, generous, ribbed all over. A form that feels full even when empty.",
+    "specs": "Dimensions: 11x14 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹4850.00"
+  },
+  {
+    "id": "ves-38",
+    "category": "Vessels",
+    "name": "Small Snack Plate",
+    "desc": "Just the right size for something small and good. A plate that makes a snack feel considered.",
+    "specs": "Dimensions: 14x4 cm\nMaterial: Hand painted Porcelain\nOne of a Kind",
+    "price": "₹1250.00"
+  },
+  {
+    "id": "col-21",
+    "category": "Collectibles",
+    "name": "Shell Trinket Bowl",
+    "desc": "The shape of the sea, made to hold the small things you want to keep. Rings, pins, the things that matter.",
+    "specs": "Dimensions: 12 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "col-22",
+    "category": "Collectibles",
+    "name": "Bird Hangings",
+    "desc": "Suspended mid-flight. A porcelain bird that never lands — made to hang, to sway, to be noticed.",
+    "specs": "Dimensions: 12 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹950.00"
+  },
+  {
+    "id": "col-23",
+    "category": "Collectibles",
+    "name": "Pebble Vase",
+    "desc": "Smooth, rounded, river-worn in feeling. A vase that holds a single stem with quiet authority.",
+    "specs": "Dimensions: 6x4 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1450.00"
+  },
+  {
+    "id": "col-24",
+    "category": "Collectibles",
+    "name": "Chain with 9 Links",
+    "desc": "Nine links, each hand-formed, fired as one. A porcelain chain that should not exist — and does.",
+    "specs": "Dimensions: 36 cm\nMaterial: Parian\nHand Built — One of a Kind",
+    "price": "₹2750.00"
+  },
+  {
+    "id": "col-25",
+    "category": "Collectibles",
+    "name": "Spinning Top Oil Lamp (Lattu Diya)",
+    "desc": "The lattu as a diya — childhood and ritual in one form. Spun into shape, lit with intention.",
+    "specs": "Dimensions: 6x6 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹1250.00"
+  },
+  {
+    "id": "col-26",
+    "category": "Collectibles",
+    "name": "Snakes and Ladders (Saamp Seedhi)",
+    "desc": "The oldest game, made in the oldest material. A porcelain board that turns play into a keepsake.",
+    "specs": "Dimensions: 8x8 cm\nMaterial: Hand painted Porcelain\nHand Built — One of a Kind",
+    "price": "₹10500.00"
+  },
+  {
+    "id": "col-27",
+    "category": "Collectibles",
+    "name": "Pebble Candle Holder",
+    "desc": "Smooth, rounded, river-worn in feeling. A candle holder that sits low and steady, holding the flame with ease.",
+    "specs": "Dimensions: 6x4 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-1",
+    "category": "Lighting",
+    "name": "Small Mushroom Table Lamp",
+    "desc": "A cap of light on a slender stem. Soft, organic, made for the bedside, the desk, the corner that needs warmth.",
+    "specs": "Dimensions: 6x4 cm\nMaterial: Porcelain\nHand Built — One of a Kind",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-2",
+    "category": "Lighting",
+    "name": "Large Mushroom Ribbed Table Lamp",
+    "desc": "The larger form, ribbed all over. A statement lamp that fills a room with both light and presence.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-3",
+    "category": "Lighting",
+    "name": "Wall Sconce",
+    "desc": "Mounts flush against the wall. Cast light and shadow in equal measure. A fixture that becomes part of the architecture.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-4",
+    "category": "Lighting",
+    "name": "Bell Pendant Small",
+    "desc": "A flared bell that opens upward. Teal glaze, warm glow beneath. Small in size, large in presence.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-5",
+    "category": "Lighting",
+    "name": "Deep Dome Pendant Small",
+    "desc": "A deeper bowl, more dramatic drop. The light pools inside before spilling down. Porcelain at its most architectural.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-6",
+    "category": "Lighting",
+    "name": "Dome Pendant Large",
+    "desc": "A full, rounded dome in a deep glaze. Generous and warm — made to hang over a table, over a moment.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-7",
+    "category": "Lighting",
+    "name": "Factory Pendant",
+    "desc": "Wide, flat, industrial in spirit. A white-glazed shade on a twisted cord — the classic factory silhouette, made by hand.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-8",
+    "category": "Lighting",
+    "name": "Ribbed Pendant Lamp",
+    "desc": "Textured from top to bottom, the ribs catch the light as it moves. A pendant that's as beautiful unlit as it is on.",
+    "specs": "Dimensions —\nMaterial: Porcelain\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "li-9",
+    "category": "Lighting",
+    "name": "Hand Painted Mushroom Lamp",
+    "desc": "The mushroom form, hand painted. Every lamp is singular — the pattern lands differently each time. No two alike.",
+    "specs": "Dimensions —\nMaterial: Porcelain, hand painted\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "wa-1",
+    "category": "Wall Art",
+    "name": "Silhouette — Leaf",
+    "desc": "Flat-formed and fired. A trace of a leaf pressed into clay, suspended on the wall. Comes with a brass nail mount.",
+    "specs": "22 × 14 cm\nMaterial: Porcelain, unglazed\nFired: 1280°C\nMount: Brass nail included",
+    "price": "₹ —"
+  },
+  {
+    "id": "wa-2",
+    "category": "Wall Art",
+    "name": "Tile — Grid I",
+    "desc": "A single tile from a modular grid system. Can be arranged in sets of four or nine. Customisable glaze finish.",
+    "specs": "15 × 15 cm\nMaterial: Porcelain, white matte glaze\nFired: 1280°C\nEdition: Made to order",
+    "price": "₹ —"
+  },
+  {
+    "id": "rit-1",
+    "category": "Rituals",
+    "name": "Pratah Kit",
+    "desc": "A morning ritual set. One tumbler, one incense holder, one spinning top oil lamp (lattu diya). Wrapped in cloth, ready to gift.",
+    "specs": "Contents: 3 pieces\nMaterial: Porcelain\nPackaging: Hand-stitched cloth wrap",
+    "price": "₹ —"
+  },
+  {
+    "id": "rit-2",
+    "category": "Rituals",
+    "name": "Sandhya Kit",
+    "desc": "An evening ritual set. One Nada Candle, one small movement bowl, one shell trinket bowl. For the hour when the light changes.",
+    "specs": "Contents: 3 pieces\nMaterial: Porcelain\nPackaging: Hand-stitched cloth wrap",
+    "price": "₹ —"
+  },
+  {
+    "id": "rit-3",
+    "category": "Rituals",
+    "name": "Matcha Kit",
+    "desc": "Everything for the ritual of green. A matcha bowl, a whisk rest, a measured calm. Wrapped and ready.",
+    "specs": "Material: Porcelain\nPackaging: Hand-stitched cloth wrap",
+    "price": "₹ —"
+  },
+  {
+    "id": "rit-4",
+    "category": "Rituals",
+    "name": "Coffee Kit",
+    "desc": "For the morning that deserves attention. An espresso cup, a small jug, a quiet beginning. Wrapped in cloth.",
+    "specs": "Material: Porcelain\nPackaging: Hand-stitched cloth wrap",
+    "price": "₹ —"
+  },
+  {
+    "id": "mer-1",
+    "category": "Merch",
+    "name": "Nada Tee",
+    "desc": "100% cotton. A single line, screen printed. Worn soft, washed soft, kept.",
+    "specs": "Sizes: S / M / L / XL\nMaterial: 100% cotton\nPrint: Screen printed",
+    "price": "₹ —"
+  },
+  {
+    "id": "mer-2",
+    "category": "Merch",
+    "name": "Nada Tote",
+    "desc": "Natural canvas. Carries your market, your books, your morning. Screen printed wordmark.",
+    "specs": "Dimensions: 38 × 42 cm\nMaterial: Natural canvas\nPrint: Screen printed",
+    "price": "₹ —"
+  },
+  {
+    "id": "mer-3",
+    "category": "Merch",
+    "name": "Nada Cap",
+    "desc": "Six-panel, unstructured. Embroidered wordmark at the front. For the studio, for the street.",
+    "specs": "Fit: One size, adjustable\nMaterial: Cotton twill\nDetail: Embroidered",
+    "price": "₹ —"
+  },
+  {
+    "id": "mer-4",
+    "category": "Merch",
+    "name": "Postcards",
+    "desc": "Something to send, something to keep. Printed on good paper, made to be held and written on and mailed.",
+    "specs": "Standard postcard size\nPrinted",
+    "price": "₹ —"
+  },
+  {
+    "id": "mer-5",
+    "category": "Merch",
+    "name": "Nada Can Glasses",
+    "desc": "A porcelain drinking glass in the form of a can. Cold on the outside, warm in the making. For your morning brew, your afternoon iced coffee, your evening anything.",
+    "specs": "Dimensions —\nMaterial: Porcelain",
+    "price": "₹ —"
+  },
+  {
+    "id": "mer-6",
+    "category": "Merch",
+    "name": "Ceramic Everyday Coffee Sipper",
+    "desc": "A ceramic sipper for the daily ritual. Holds your coffee the way it deserves to be held — slow, considered, warm.",
+    "specs": "Dimensions —\nMaterial: Porcelain",
+    "price": "₹ —"
+  },
+  {
+    "id": "mer-7",
+    "category": "Merch",
+    "name": "Hand Painted Framed Wall Prints",
+    "desc": "Painted by hand, framed and ready to hang. Each print is singular — the same subject, a different hand, a different day.",
+    "specs": "Dimensions —\nHand painted, framed",
+    "price": "₹ —"
+  }
+]
